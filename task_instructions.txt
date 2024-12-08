@@ -1,0 +1,5 @@
+I have existing Python Code for a dice roll game in string format.
+I have a Python GUI Code for selecting a weapon with 
+a description and a button to launch a second window.  
+The second window needs to have the dice roll sting code added 
+or converted into the Python GUI window 2 pop-up.
